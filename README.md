@@ -12,9 +12,6 @@ Supports multilingual interface, easy PHP path configuration, and automatic logg
 - 🛠️ Opens `php.ini` directly from the GUI
 - 💾 Remembers your configuration (`config.json`)
 
-## Screenshot
-
-![screenshot](screenshot.png) *(add your screenshot here)*
 
 ## Getting Started
 
