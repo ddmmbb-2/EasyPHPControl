@@ -1,21 +1,14 @@
-# Python 暫存
-__pycache__/
-*.py[cod]
-*$py.class
-
-# 虛擬環境
-venv/
-ENV/
-
-# PyInstaller 打包產生的暫存與結果
-build/
-dist/
-*.spec
-
-# 資料庫與本地設定 (不建議推上去)
-sites.json
-apache2/logs/*
-
-# OS 暫存
-.DS_Store
-Thumbs.db
+# Python 
+__pycache__/ 
+venv/ 
+# Build 
+build/ 
+dist/ 
+*.spec 
+# Config 
+sites.json 
+# Binaries 
+apache2/ 
+php/ 
+���].txt 
+�����\��-V1.bat 
